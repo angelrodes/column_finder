@@ -2,7 +2,7 @@
 
 Convert fixed-width tables to tabbed tables.
 
-**Ángel Rodés, 2021**
+*Ángel Rodés, 2021*
 
 ## Versions
 
