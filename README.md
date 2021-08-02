@@ -1,8 +1,8 @@
 # Column finder
 
-Convert fixed-width tables to tabbed tables. For linux.
-
 *Ángel Rodés, 2021*
+
+Convert fixed-width tables to tabbed tables. For linux.
 
 ## Dependencies
 
